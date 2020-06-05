@@ -6,3 +6,7 @@
  all index
  
  `index=* | dedup index | table index`
+ 
+ all sources
+ 
+ `index=* |dedup source |chart count by source`
