@@ -5,4 +5,4 @@
  
  all index
  
- `index=* | dedup index | table index
+ `index=* | dedup index | table index`
