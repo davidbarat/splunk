@@ -5,4 +5,4 @@
  
  all index
  
- `index=* index=_* | dedup index | fields index | rest /services/data/indexes | dedup title | table title`
+ `index=* | dedup index | table index
